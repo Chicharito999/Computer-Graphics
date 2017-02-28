@@ -1,11 +1,8 @@
-## Welcome to GitHub Pages
+# Computer Graphics
 
-You can use the [editor on GitHub](https://github.com/Chicharito999/Computer-Graphics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Alt text](http://p1.bqimg.com/567571/e87f581f127b4415.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+## Overview
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
