@@ -1,11 +1,3 @@
-# Computer Graphics
-![Alt text](http://p1.bqimg.com/567571/e87f581f127b4415.png)
-
-
-## Basic Profile
-```html
-<div><font color=red size=6 face=“黑体”>字体颜色</font></div>
-```
 
 
 * Name: Mingfu Zhao
