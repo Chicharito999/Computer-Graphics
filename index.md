@@ -3,8 +3,10 @@
 
 
 ## Basic Profile
+```html
+<div><font color=red size=6 face=“黑体”>字体颜色</font></div>
+```
 
-<center>测试一下</center>
 
 * Name: Mingfu Zhao
  
