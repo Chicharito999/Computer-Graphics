@@ -3,13 +3,13 @@
 
 
 ## Basic Profile
-*Name: Mingfu Zhao
+* Name: Mingfu Zhao
  
-*Education:Junior,Shandong Unviersity
+* Education:Junior,Shandong Unviersity
  
-*Student ID: 201400301087
+* Student ID: 201400301087
  
-*Email:1109646702@qq.com
+* Email:1109646702@qq.com
  
 ## Course Understand
 
