@@ -6,7 +6,7 @@
  
 * Student ID: 201400301087
  
-* Email:1109646702@qq.com
+* Email:1109646702@qq.com 
  
 ## Course Understand
  Computer graphics are pictures and films created using computers. Usually, the term refers to computer-generated image data created with help from specialized graphical hardware and software. It is a vast and recent area in computer science. The phrase was coined in 1960, by computer graphics researchers Verne Hudson and William Fetter of Boeing. It is often abbreviated as CG, though sometimes erroneously referred to as CGI.
@@ -34,7 +34,7 @@
 
 ## Useful Links
 * [My Personal Homepage](https://chicharito999.github.io/) 
-* 
+* [Graphics Course](http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html) 
 * 
 * 
 * 
