@@ -33,7 +33,7 @@
 
 ## Useful Links
 * [My Personal Homepage](https://chicharito999.github.io/) 
-* [Graphics Course](http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html) 
+* [Graphics Course](http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html) 　
 * 
 * 
 * 
