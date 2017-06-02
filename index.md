@@ -26,7 +26,7 @@
 
 ## Experiments
 * [Stickman](https://github.com/Chicharito999/Stickman) 
-* [Gouraud/Phong/BlinnPhong](https://github.com/Chicharito999/Ray-Tracing) 
+* [Gouraud/Phong/BlinnPhong](https://github.com/Chicharito999/Shading) 
 * [Toon Shading](https://github.com/Chicharito999/ToonShading) 
 * [Ray-Tracing](https://github.com/Chicharito999/Ray-Tracing) 
 
