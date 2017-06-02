@@ -28,8 +28,8 @@
 * [Stickman](https://github.com/Chicharito999/Stickman) 
 * [Gouraud/Phong/BlinnPhong](https://github.com/Chicharito999/Ray-Tracing) 
 * [Toon Shading](https://github.com/Chicharito999/ToonShading) 
-* 
-* 
+* [Ray-Tracing](https://github.com/Chicharito999/Ray-Tracing) 
+
 
 
 ## Useful Links
