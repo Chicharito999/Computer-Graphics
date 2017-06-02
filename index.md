@@ -34,7 +34,7 @@
 ## Useful Links
 * [My Personal Homepage](https://chicharito999.github.io/) 
 * [Graphics Course Website](http://www.cs.sdu.edu.cn/~baoquan/course/S17_CG.html) 　
-* [Shandong University Homepage](http://www.opengl-tutorial.org/) 
+* [Shandong University Homepage](http://www.sdu.edu.cn/) 
 * [OpenGL Tutorial](http://www.opengl-tutorial.org/) 
 * [Everything OpenGL](http://nehe.gamedev.net/) 　
 
