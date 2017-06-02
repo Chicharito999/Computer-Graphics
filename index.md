@@ -9,19 +9,18 @@
 * Email:1109646702@qq.com 
  
 ## Course Understand
- Computer graphics are pictures and films created using computers. Usually, the term refers to computer-generated image data created with help from specialized graphical hardware and software. It is a vast and recent area in computer science. The phrase was coined in 1960, by computer graphics researchers Verne Hudson and William Fetter of Boeing. It is often abbreviated as CG, though sometimes erroneously referred to as CGI.
+ Computer graphics includes pictures and films created using computers, such as photographs, drawings, movies, or simulations -- pictures of things which do not yet exist and maybe could never exist. Or they may be pictures from places we cannot see directly, such as medical images from inside your body, battlefield visualization, CAD. So we can use it to not only reflect the real world, but also offer help to scientific research.
+ Three important topics in computer graphics include Modeling, Animation and Rendering. Modeling is about how to represent objects and how to build those representations; Besides, animation is mainly refers to controlling the way model move; As for rendering, it is mainly about how to simulate the image-forming process. The overall methodology depends heavily on the underlying sciences of geometry and physics. So it is very important for us to get familiar with some knowledge about　geometry and physics.
+ Computer graphics is responsible for displaying art and image data effectively and meaningfully to the user. In order to reach this purpose, many algorithms are proposed by researcher, such as Bresenham's Algorithm, Floyd-Steinberg Error Diffusion, MIP Mapping, Ray-casting and etc. These are all used for anti-aliasing, making pictures more vivid and improving speed, when we convert the ideal object to raster representation.
+ As an academic discipline, it focuses on the mathematical and computational foundations of image generation and processing rather than purely aesthetic issues. Computer graphics is often differentiated from the field of visualization, although the two fields have many similarities. After the study of a whole term, I gain a lot of knowledge and broaden my views, especially find some thing interesting about computer graphics, such as Escher's illusory pictures, mantis shrimp's ultrafast action and etc.
 
- Important topics in computer graphics include user interface design, sprite graphics, vector graphics, 3D modeling, shaders, GPU design, implicit surface visualization with ray tracing, and computer vision, among others. The overall methodology depends heavily on the underlying sciences of geometry, optics, and physics.
-
- Computer graphics is responsible for displaying art and image data effectively and meaningfully to the user. It is also used for processing image data received from the physical world. Computer graphic development has had a significant impact on many types of media and has revolutionized animation, movies, advertising, video games, and graphic design generally.
-
-
+ 
 ## Assignments
 * 
 * 
 * 
 * 
-* 
+*  
 
 
 ## Experiments
