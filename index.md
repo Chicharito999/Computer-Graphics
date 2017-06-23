@@ -28,7 +28,7 @@
 * 
 * [M.C. Escher](http://www.mcescher.com/) 
 * [Jill Britton's Escher Gallery](http://britton.disted.camosun.bc.ca/escher/jbescher.htm) 
-
+* [Principal Components Analysis](http://ufldl.stanford.edu/wiki/index.php/PCA) 
 
 ## Useful Links
 * [My Personal Homepage](https://chicharito999.github.io/) 
