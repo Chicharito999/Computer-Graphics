@@ -26,9 +26,8 @@
 ## Something interesting
 * 
 * 
-* 
-* 
-*  
+* [M.C. Escher](http://www.mcescher.com/) 
+* [Jill Britton's Escher Gallery](http://britton.disted.camosun.bc.ca/escher/jbescher.htm) 
 
 
 ## Useful Links
