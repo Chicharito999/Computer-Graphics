@@ -25,7 +25,7 @@
 
 ## Something interesting
 * 
-* 
+* [Mantis Shrimp](http://video.tudou.com/v/XMTc4Njk4MTM1Mg==.html) 
 * [M.C. Escher](http://www.mcescher.com/) 
 * [Jill Britton's Escher Gallery](http://britton.disted.camosun.bc.ca/escher/jbescher.htm) 
 * [Principal Components Analysis](http://ufldl.stanford.edu/wiki/index.php/PCA) 
