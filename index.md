@@ -24,7 +24,7 @@
 
 
 ## Something interesting
-* 
+* [Deep Learning in CG](http://mp.weixin.qq.com/s?__biz=MzI3MzA2MzE5Nw==&mid=2668906594&idx=1&sn=38309a54278fd06cd1aaf559c3282eab&chksm=f1c9e410c6be6d06df446c0ca9f2af9f7b247e5106200d18146eb9f4b028a1c828cb0144eccc&mpshare=1&scene=23&srcid=0524EycCSETa7lNzPwTP666f#rd) 
 * [Mantis Shrimp](http://video.tudou.com/v/XMTc4Njk4MTM1Mg==.html) 
 * [M.C. Escher](http://www.mcescher.com/) 
 * [Jill Britton's Escher Gallery](http://britton.disted.camosun.bc.ca/escher/jbescher.htm) 
